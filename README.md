@@ -1,2 +1,2 @@
-# Holle-Word
-bird
+＃Holle-Word
+rookie
